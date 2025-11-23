@@ -188,7 +188,7 @@ country_continent = {
     "Ukraine": "Europe",
     "United Arab Emirates": "Asia",
     "United Kingdom": "Europe",
-    "Usa": "North America",
+    "USA": "North America",
     "Uruguay": "South America",
     "Uzbekistan": "Asia",
     "Vanuatu": "Oceania",
